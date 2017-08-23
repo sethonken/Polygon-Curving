@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(84): warning C4101: 'pointSlope': unreferenced local variable
+main.cpp(130): warning C4101: 'pointSlope': unreferenced local variable
+main.cpp(240): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(241): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Polygon Curving.vcxproj -> C:\Users\Seth\Documents\Visual Studio 2017\Projects\Polygon Curving\Release\Polygon Curving.exe
